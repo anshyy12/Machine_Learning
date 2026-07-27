@@ -40,3 +40,18 @@ Predicting house prices is a classic regression problem. This project walks thro
    ```bash
    git clone [https://github.com/your-username/california-housing-ml.git](https://github.com/your-username/california-housing-ml.git)
    cd california-housing-ml
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 👩‍💻 Author
+
+**Anisha Kumari**
+
+- GitHub: https://github.com/anshyy12
+- LinkedIn: https://www.linkedin.com/in/anshyy12b/
